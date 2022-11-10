@@ -1,10 +1,12 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Eleassar"
+		]
 	},
 	"fullname": "Internacionalizacija orodij",
 	"current-settings": "Trenutne nastavitve",
-	"current-language": "Izbran jezik",
+	"current-language": "Izbrani jezik",
 	"settings-legend": "Nastavitve",
 	"choose-language": "Izberite jezik",
 	"clear-cookies": "počisti piškotke",
